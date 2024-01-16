@@ -1,3 +1,3 @@
 #hukmin 2024 updates
 
-css got so much better!
+html and css got so much fun!
